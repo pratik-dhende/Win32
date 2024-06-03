@@ -1,2 +1,5 @@
 # Win32
-Win32 Programming
+This is an ongoing project which explores Win32 programming.
+
+# Current Features
+- Window creation
